@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286061796459",
+    "project_id": "bongo-translator-a93e7",
+    "storage_bucket": "bongo-translator-a93e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286061796459:android:d32b84027542bfd125a52e",
+        "android_client_info": {
+          "package_name": "com.sarkartech.bongotranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286061796459-bhr4mp1tl98tjforktn2uk4hicvgdv16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTyCDm2vV3TqG1SQAchyMD-ij6raIOiJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286061796459-bhr4mp1tl98tjforktn2uk4hicvgdv16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
